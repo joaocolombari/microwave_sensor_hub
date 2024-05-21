@@ -7,8 +7,8 @@
   <br> <br>
   DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING
   <br> <br>
-  <b>Student: </b> João Victor Colombari Carlet <br><br>
-  <b>University ID: </b> 5274502 <br><br>
+  <b>Author: </b> João Victor Colombari Carlet <br><br>
+  <b>Company: </b> Group of Metamaterials and Optics <br><br>
 </p>
 
 ---
